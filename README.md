@@ -1,3 +1,5 @@
+OVERVIEW
+
 The Student Management System is a simple Java-based application that allows users to manage student records. The system supports adding, removing, searching, and displaying student details. Data is stored persistently using file serialization.
 
 Features
